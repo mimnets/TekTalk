@@ -1,4 +1,4 @@
-#How to Reset Windows 11 Password Without Any Software
+# How to Reset Windows 11 Password Without Any Software | [TekTalk](https://github.com/mimnets/TekTalk/tree/main)
 Important: This method should only be used if you don't have access to another computer and you need to gain access to your main pc.
 
 1. hold left shift key and restart pc to get to advanced menu and click troubleshoot, then click command prompt. Now you need to find the Windows directory, its normally c: or d: you can type: dir to see files and folders in that directory.
